@@ -14,7 +14,7 @@
 
 ### Screenshot
 
-#### Planets Preview
+#### Class Record Preview
 ---
 ![](class-record.gif)
 
